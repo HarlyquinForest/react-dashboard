@@ -1,5 +1,5 @@
 # Dashboard App Created with React.js TailwindCss and Syncfusion component 
-[Dashboard App](https://harlyquinforest.github.io/ecommerce)
+[Dashboard App](https://harlyquinforest.github.io/react-dashboard)
 
 ## Getting Started with Create React App
 
