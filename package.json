@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://HarlyquinForest.github.io/react-dashboard " , 
+  "homepage": "https://HarlyquinForest.github.io/react-dashboard/" , 
   "private": true,
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
