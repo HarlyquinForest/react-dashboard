@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Dashboard App Created with React.js TailwindCss and Syncfusion component 
+[Dashboard App](https://harlyquinforest.github.io/ecommerce)
+
+## Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
