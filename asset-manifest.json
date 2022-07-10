@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-dashboard/static/css/main.d37593a3.css",
-    "main.js": "/react-dashboard/static/js/main.1980cd77.js",
+    "main.css": "/react-dashboard/static/css/main.a4567309.css",
+    "main.js": "/react-dashboard/static/js/main.c3ff71c4.js",
     "static/media/product4.jpg": "/react-dashboard/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/react-dashboard/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/react-dashboard/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -15,11 +15,11 @@
     "static/media/avatar4.jpg": "/react-dashboard/static/media/avatar4.f56b774f77caaf2f6921.jpg",
     "static/media/product5.jpg": "/react-dashboard/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/react-dashboard/index.html",
-    "main.d37593a3.css.map": "/react-dashboard/static/css/main.d37593a3.css.map",
-    "main.1980cd77.js.map": "/react-dashboard/static/js/main.1980cd77.js.map"
+    "main.a4567309.css.map": "/react-dashboard/static/css/main.a4567309.css.map",
+    "main.c3ff71c4.js.map": "/react-dashboard/static/js/main.c3ff71c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.d37593a3.css",
-    "static/js/main.1980cd77.js"
+    "static/css/main.a4567309.css",
+    "static/js/main.c3ff71c4.js"
   ]
 }
