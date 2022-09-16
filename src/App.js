@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import { FiSettings } from "react-icons/fi";
 import { TooltipComponent } from "@syncfusion/ej2-react-popups";
 import {
@@ -57,7 +57,7 @@ function App() {
   return (
     <>
       <div className={currentMode === "Dark" ? "dark" : ""}>
-        <Router>
+        <Router basename='/react-dashboard'>
           <div className="flex relative dark:bg-main-bg">
             <div className="fixed left-4 bottom-4" style={{ zIndex: "1000" }}>
               <TooltipComponent content="Settings" position="Top">
@@ -95,7 +95,7 @@ function App() {
                   </div>
                 )}
                 <Routes>
-                  <Route path="/" element={<Ecommerce />} />
+                  <Route path="/" index element={<Navigate to="/ecommerce"/>} />
                   <Route path="/ecommerce" element={<Ecommerce />} />
                   <Route path="/orders" element={<Orders />} />
                   <Route path="/employees" element={<Employees />} />
